@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesdim/hexlet-js.git"
+  },
+  "author": "yesdim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesdim/hexlet-js/issues"
+  },
+  "homepage": "htps://github.com/yesdim/hexlet-js#readme"
+}
