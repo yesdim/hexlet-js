@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yesdim/hexlet-js/issues"
   },
-  "homepage": "htps://github.com/yesdim/hexlet-js#readme"
+  "homepage": "htps://github.com/yesdim/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
