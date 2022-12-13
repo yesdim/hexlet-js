@@ -19,5 +19,8 @@
   "homepage": "htps://github.com/yesdim/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.1"
   }
 }
